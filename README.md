@@ -5,7 +5,7 @@ A linked list is a linear data structure in which elements are linked together u
 
 The last node of the *Linked List* has a reference to NULL. The start of the *Linked List* is actually not a node but a reference to the first node of the *Linked List* and is called head. If the *Linked List* is empty, the head is a null reference.
 
-![Linked List](LinkedList.png)
+![Linked List](https://s3-us-west-2.amazonaws.com/ib-assessment-tests/problem_images/singly-ll.png)
 
 ### Advantages of Linked List
 1. It does not require any initial size as it is a dynamic data structure and it can grow and shrink at runtime by allocating and deallocating memory.
